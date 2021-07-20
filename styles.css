@@ -1,0 +1,23 @@
+@font-face { font-family: Qahiri; src: url('Qahiri-Regular.ttf'); } 
+.header {
+    text-align: center;
+    font-family: Qahiri;
+    font-size: 12ch;
+}
+.items {
+    flex:center;
+    justify-content: center;
+    text-align:center;
+    border: solid;
+    border-width: 50px;
+    padding: 200px;
+    margin: 150px;
+    margin-left: 500px;
+    margin-right: 500px ;
+    font-family: Qahiri;
+    font-size: 8ch;
+    background-color: rgb(114, 9, 9);
+}
+* {
+    background-color: chocolate;
+}
